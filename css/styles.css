@@ -1,0 +1,41 @@
+    * {
+        margin: 0px;
+        padding: 0px;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    img {
+        padding: 0px;
+        border-radius: 50%;
+    }
+    
+    .row-content {
+        margin: opx auto;
+        padding: 50px 0px 50px 0px;
+        border-bottom: 1px ridge;
+        min-height: 400px;
+    }
+    
+    .footer {
+        background-color: hsl(184, 75%, 90%);
+        margin: 0px auto;
+        padding: 20px 0px 20px 0px;
+    }
+    
+    body {
+        padding: 0px 5px 0px 5px;
+        z-index: 0;
+        background-color: red;
+    }
+    
+    .jumbotron {
+        background-color: pink;
+    }
+    
+    .navbar {
+        background-color: yellow;
+    }
+    
+    .navbar-toggler {
+        background-color: paleturquoise;
+    }
