@@ -41,3 +41,8 @@
         border-radius: 50%;
         z-index: 3;
     }
+    
+    .loc {
+        justify-content: center;
+        align-self: auto;
+    }
