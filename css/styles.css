@@ -23,7 +23,7 @@
     }
     
     body {
-        padding: 0px 5px 0px 5px;
+        padding: 0px 0px 0px 0px;
         z-index: 0;
         background-color: red;
     }
@@ -38,4 +38,9 @@
     
     .navbar-toggler {
         background-color: paleturquoise;
+    }
+    
+    #im1 {
+        height: 200px;
+        overflow-x: hidden;
     }
