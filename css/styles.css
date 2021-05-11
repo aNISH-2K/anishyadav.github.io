@@ -1,48 +1,47 @@
-    * {
-        margin: 0px;
-        padding: 0px;
-        font-family: 'Poppins', sans-serif;
-    }
-    
-    .row-content {
-        margin: opx auto;
-        padding: 50px 0px 50px 0px;
-        border-bottom: 1px ridge;
-        min-height: 400px;
-    }
-    
-    .footer {
-        background-color: hsl(184, 75%, 90%);
-        margin: 0px auto;
-        padding: 20px 0px 20px 0px;
-    }
-    
-    body {
-        padding: 0px 0px 0px 0px;
-        z-index: 0;
-        background-color: red;
-    }
-    
-    .jumbotron {
-        background-color: pink;
-    }
-    
-    .navbar {
-        background-color: yellow;
-    }
-    
-    .navbar-toggler {
-        background-color: paleturquoise;
-    }
-    
-    #im1 {
-        height: 200px;
-        overflow-x: hidden;
-        border-radius: 50%;
-        z-index: 3;
-    }
-    
-    .loc {
-        justify-content: center;
-        align-self: auto;
-    }
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+    padding: 0px 0px 0px 0px;
+    z-index: 0;
+    background-color: aliceblue;
+    background-image: linear-gradient(to bottom right, red, hsl(293, 83%, 82%), hsl(184, 100%, 50%));
+}
+
+.row-content {
+    margin: opx auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+
+.footer {
+    background-color: hsl(178, 75%, 90%);
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.jumbotron {
+    background-color: hsl(198, 72%, 78%);
+}
+
+.navbar {
+    background-color: hsl(260, 81%, 32%);
+    color: white;
+}
+
+.navbar-toggler {
+    background-color: hsl(210, 75%, 40%);
+}
+
+#im1 {
+    height: 200px;
+    overflow-x: hidden;
+    border-radius: 50%;
+    z-index: 3;
+}
+
+.loc {
+    justify-content: center;
+    align-self: auto;
+}
