@@ -10,9 +10,9 @@ body {
 
 .row-content {
     margin: opx auto;
-    padding: 50px 0px 50px 0px;
+    padding: 40px 0px 40px 0px;
     border-bottom: 1px ridge;
-    min-height: 400px;
+    min-height: 200px;
 }
 
 .jumbotron {
