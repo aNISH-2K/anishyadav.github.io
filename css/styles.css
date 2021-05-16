@@ -3,7 +3,7 @@ body {
     font-family: 'Poppins', sans-serif;
     padding: 0px 0px 0px 0px;
     z-index: 0;
-    background-color: rgba(500, 153, 155, 0.22);
+    background-color: rgba(90, 153, 155, 0.22);
     /* background-color: aliceblue; */
     /* background-image: linear-gradient(to bottom right, red, hsl(293, 83%, 82%), hsl(184, 100%, 50%)); */
 }
