@@ -56,7 +56,7 @@ body {
 }
 
 #im2 {
-    height: 260px;
+    height: 240px;
     overflow-x: hidden;
     /* border-radius: 50%; */
     z-index: 3;
@@ -73,4 +73,36 @@ body {
 
 .unchecked {
     color: rgba(255, 255, 255, 0.844);
+}
+
+@media only screen and (min-width: 576px) {
+    #im2 {
+        display: block;
+        margin-left: 28%;
+        margin-right: auto;
+        margin-top: 150px;
+        margin-bottom: auto;
+        height: 160px;
+        width: 144px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    #im2 {
+        display: block;
+        margin-left: 33%;
+        margin-right: auto;
+        margin-top: 100px;
+        margin-bottom: auto;
+        height: 180px;
+        width: 162px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    #im2 {
+        margin-top: 50px;
+        height: 200px;
+        width: 180px;
+    }
 }
